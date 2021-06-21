@@ -1,5 +1,5 @@
 # CVAD
-Solutions to the Assignments of the Computer Vision for Autonomous Driving Course. The aim of this repository is to introduce Computer Vision for Autonomous Driving to curious students.
+Solutions to the assignments of the Computer Vision for Autonomous Driving Course. The aim of this repository is to introduce Computer Vision for Autonomous Driving to curious students.
 
 **Week**  | **Topic** | **Solution Link** | **Video**
 ---|:---:|:---:|:---:|
