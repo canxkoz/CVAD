@@ -8,6 +8,7 @@ Week 2|Multi-view Reconstruction|[Multi-view Reconstruction Assignment](https://
 Week 3|Optical Flow|[Optical Flow Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week3/Week4_Flow-Can%20Koz.ipynb)|[Video](https://www.youtube.com/watch?v=dq_QMCE0DOI)
 Week 4|Scene Flow|[Scene Flow Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week4/Week_5%20Can_Koz_flownet3d.ipynb)|[Video](https://www.youtube.com/watch?v=XEiR1U0gqPI)
 Week 5|Visual Odometry|[Visual Odometry Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week5/Can%20Koz-Week6_vo%20(1).ipynb)|[Video](https://www.youtube.com/watch?v=hL0qCP7u-4I)
+Week 6|No Assignment|No Assignment
 
 **Week**  | **Paper Name** | **Paper Review** 
 ---|:---:|:---:
@@ -16,3 +17,4 @@ Week 2|[Unsupervised Learning of Depth and Ego Motion from Video](https://arxiv.
 Week 3|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
 Week 4|[Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week4%20-%20Self-Supervised%20Monocular%20Scene%20Flow%20.pdf)
 Week 5|[Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/pdf/2007.10983.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week5-Learning%20Monocular%20Visual%20Odometry%20via%20Self-Supervised%20Long-Term%20Modeling.pdf)
+Week 6|[Advances in Inference and Representation for Simultaneous Localization and Mapping](https://arxiv.org/pdf/2103.05041.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week6-SLAM%20Opinion%20Homework.pdf)
