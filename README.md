@@ -12,9 +12,9 @@ Week 6|No Assignment|No Assignment
 
 **Week**  | **Paper Name** | **Paper Review** 
 ---|:---:|:---:
-# 1|[GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week1-GANet.pdf)
-# 2|[Unsupervised Learning of Depth and Ego Motion from Video](https://arxiv.org/abs/1704.07813v2)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week2-Unsupervised%20Learning%20of%20Depth.pdf)
-# 3|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
-# 4|[Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week4%20-%20Self-Supervised%20Monocular%20Scene%20Flow%20.pdf)
-# 5|[Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/pdf/2007.10983.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week5-Learning%20Monocular%20Visual%20Odometry%20via%20Self-Supervised%20Long-Term%20Modeling.pdf)
-# 6|[Advances in Inference and Representation for Simultaneous Localization and Mapping](https://arxiv.org/pdf/2103.05041.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week6-SLAM%20Opinion%20Homework.pdf)
+W1|[GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week1-GANet.pdf)
+W2|[Unsupervised Learning of Depth and Ego Motion from Video](https://arxiv.org/abs/1704.07813v2)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week2-Unsupervised%20Learning%20of%20Depth.pdf)
+W3|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
+W4|[Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week4%20-%20Self-Supervised%20Monocular%20Scene%20Flow%20.pdf)
+W5|[Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/pdf/2007.10983.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week5-Learning%20Monocular%20Visual%20Odometry%20via%20Self-Supervised%20Long-Term%20Modeling.pdf)
+W6|[Advances in Inference and Representation for Simultaneous Localization and Mapping](https://arxiv.org/pdf/2103.05041.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week6-SLAM%20Opinion%20Homework.pdf)
