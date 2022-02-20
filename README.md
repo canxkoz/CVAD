@@ -10,7 +10,7 @@ Week 4|Scene Flow|[Scene Flow Assignment](https://github.com/canxkoz/CVAD/blob/m
 Week 5|Visual Odometry|[Visual Odometry Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week5/Can%20Koz-Week6_vo%20(1).ipynb)|[Video](https://www.youtube.com/watch?v=hL0qCP7u-4I)
 Week 6|SLAM|No Assignment
 Week 7|Object Detection|[Object Detection Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week7/Can_Koz_Week8_ObjectDetection/Can_Koz_Week_8_Object_Detection_Assignments.ipynb)|[Video](https://www.youtube.com/watch?v=DbyCtGUxpso)
-
+Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week8/Can_Koz_Week9_Object_Detection_Extended.ipynb)|[Video](https://www.youtube.com/watch?v=hBeuFqSA-k0)
 
 **Week**  | **Paper Name** | **Paper Review** 
 ---|:---:|:---:
@@ -21,3 +21,4 @@ Week 7|Object Detection|[Object Detection Assignment](https://github.com/canxkoz
  W 5|[Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/pdf/2007.10983.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week5-Learning%20Monocular%20Visual%20Odometry%20via%20Self-Supervised%20Long-Term%20Modeling.pdf)
  W 6|[Advances in Inference and Representation for Simultaneous Localization and Mapping](https://arxiv.org/pdf/2103.05041.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week6-SLAM%20Opinion%20Homework.pdf)
  W 7|[End to End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week7-End%20to%20End%20Object%20Detection%20with%20Transformers.pdf)
+ W 8|[Sequence Level Semantics Aggregation for Video Object Detection](https://arxiv.org/abs/1907.06390)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week8-Sequence%20Level%20Semantics%20Aggregation%20for%20Video%20Object%20Detection%20%20.pdf)
