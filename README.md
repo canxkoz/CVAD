@@ -11,6 +11,8 @@ Week 5|Visual Odometry|[Visual Odometry Assignment](https://github.com/canxkoz/C
 Week 6|SLAM|No Assignment
 Week 7|Object Detection|[Object Detection Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week7/Can_Koz_Week8_ObjectDetection/Can_Koz_Week_8_Object_Detection_Assignments.ipynb)|[Video](https://www.youtube.com/watch?v=DbyCtGUxpso)
 Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week8/Can_Koz_Week9_Object_Detection_Extended.ipynb)|[Video](https://www.youtube.com/watch?v=hBeuFqSA-k0)
+Week 9|Visual Object Tracking|[Visual Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week9/Can_Koz_Week10_VOT%20-%20Jupyter%20Notebook.pdf)|No Video
+
 
 **Week**  | **Paper Name** | **Paper Review** 
 ---|:---:|:---:
@@ -22,3 +24,5 @@ Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://
  W 6|[Advances in Inference and Representation for Simultaneous Localization and Mapping](https://arxiv.org/pdf/2103.05041.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week6-SLAM%20Opinion%20Homework.pdf)
  W 7|[End to End Object Detection with Transformers](https://arxiv.org/abs/2005.12872)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week7-End%20to%20End%20Object%20Detection%20with%20Transformers.pdf)
  W 8|[Sequence Level Semantics Aggregation for Video Object Detection](https://arxiv.org/abs/1907.06390)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week8-Sequence%20Level%20Semantics%20Aggregation%20for%20Video%20Object%20Detection%20%20.pdf)
+ W 9|[Know Your Surroundings: Exploiting Scene Information for Object Tracking](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week9-Review%20for%20Know%20Your%20Surroundings.pdf)
+ 
