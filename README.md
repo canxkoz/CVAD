@@ -8,7 +8,7 @@ Week 2|Multi-view Reconstruction|[Multi-view Reconstruction Assignment](https://
 Week 3|Optical Flow|[Optical Flow Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week3/Week4_Flow-Can%20Koz.ipynb)|[Video](https://www.youtube.com/watch?v=dq_QMCE0DOI)
 Week 4|Scene Flow|[Scene Flow Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week4/Week_5%20Can_Koz_flownet3d.ipynb)|[Video](https://www.youtube.com/watch?v=XEiR1U0gqPI)
 Week 5|Visual Odometry|[Visual Odometry Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week5/Can%20Koz-Week6_vo%20(1).ipynb)|[Video](https://www.youtube.com/watch?v=hL0qCP7u-4I)
-Week 6|SLAM|No Assignment
+Week 6|SLAM|No Assignment|No Video
 Week 7|Object Detection|[Object Detection Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week7/Can_Koz_Week8_ObjectDetection/Can_Koz_Week_8_Object_Detection_Assignments.ipynb)|[Video](https://www.youtube.com/watch?v=DbyCtGUxpso)
 Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week8/Can_Koz_Week9_Object_Detection_Extended.ipynb)|[Video](https://www.youtube.com/watch?v=hBeuFqSA-k0)
 Week 9|Visual Object Tracking|[Visual Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week9/Can_Koz_Week10_VOT%20-%20Jupyter%20Notebook.pdf)|No Video
@@ -18,7 +18,7 @@ Week 9|Visual Object Tracking|[Visual Object Tracking Assignment](https://github
 ---|:---:|:---:
  W 1|[GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week1-GANet.pdf)
  W 2|[Unsupervised Learning of Depth and Ego Motion from Video](https://arxiv.org/abs/1704.07813v2)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week2-Unsupervised%20Learning%20of%20Depth.pdf)
- W 3|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)
+ W 3|[RAFT: Recurrent All-Pairs Field Transforms for Optical Flow](https://arxiv.org/abs/2003.12039)| No Review
  W 4|[Self-Supervised Monocular Scene Flow Estimation](https://arxiv.org/abs/2004.04143)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week4%20-%20Self-Supervised%20Monocular%20Scene%20Flow%20.pdf)
  W 5|[Learning Monocular Visual Odometry via Self-Supervised Long-Term Modeling](https://arxiv.org/pdf/2007.10983.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week5-Learning%20Monocular%20Visual%20Odometry%20via%20Self-Supervised%20Long-Term%20Modeling.pdf)
  W 6|[Advances in Inference and Representation for Simultaneous Localization and Mapping](https://arxiv.org/pdf/2103.05041.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week6-SLAM%20Opinion%20Homework.pdf)
