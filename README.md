@@ -12,7 +12,7 @@ Week 6|SLAM|No Assignment|No Video
 Week 7|Object Detection|[Object Detection Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week7/Can_Koz_Week8_ObjectDetection/Can_Koz_Week_8_Object_Detection_Assignments.ipynb)|[Video](https://www.youtube.com/watch?v=DbyCtGUxpso)
 Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week8/Can_Koz_Week9_Object_Detection_Extended.ipynb)|[Video](https://www.youtube.com/watch?v=hBeuFqSA-k0)
 Week 9|Visual Object Tracking|[Visual Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week9/Can_Koz_Week10_VOT%20-%20Jupyter%20Notebook.pdf)|No Video
-Week 10|Multiple Object Tracking|[Visual Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week10/Can_KOZ_Week11_MOT.ipynb)|No Video
+Week 10|Multiple Object Tracking|[Multiple Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week10/Can_KOZ_Week11_MOT.ipynb)|No Video
 
 
 **Week**  | **Paper Name** | **Paper Review** 
