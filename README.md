@@ -1,6 +1,7 @@
 # CVAD
-Solutions to the assignments of the Computer Vision for Autonomous Driving Course. The aim of this repository is to introduce Computer Vision for Autonomous Driving to curious students.
+My paper reviews and solutions to the assignments of the Computer Vision for Autonomous Driving Course.
 
+## Assignments
 **Week**  | **Topic** | **Solution Link** | **Video**
 ---|:---:|:---:|:---:|
 Week 1|Stereo Estimation|[Stereo Estimation Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week1/Week2_Stereo_Can_Koz.ipynb)|[Video](https://www.youtube.com/watch?v=RKehHjQGAXw)
@@ -14,7 +15,9 @@ Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://
 Week 9|Visual Object Tracking|[Visual Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week9/Can_Koz_Week10_VOT%20-%20Jupyter%20Notebook.pdf)|No Video
 Week 10|Multiple Object Tracking|[Multiple Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week10/Can_KOZ_Week11_MOT.ipynb)|No Video
 Week 11|Semantic Segmantation|[Semantic Segmantation Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week11/Semantic_Instance_Segmentation_Assignments%20(1).ipynb)|No Video
+Week 12|Isntance Segmantation|No Assignment|No Video
 
+## Paper Reviews
 **Week**  | **Paper Name** | **Paper Review** 
 ---|:---:|:---:
  W 1|[GA-Net: Guided Aggregation Net for End-to-end Stereo Matching](https://arxiv.org/abs/1904.06587)| [Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week1-GANet.pdf)
@@ -28,4 +31,6 @@ Week 11|Semantic Segmantation|[Semantic Segmantation Assignment](https://github.
  W 9|[Know Your Surroundings: Exploiting Scene Information for Object Tracking](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week9-Review%20for%20Know%20Your%20Surroundings.pdf)
  W 10|[Learning a Neural Solver for Multiple Object Tracking](https://arxiv.org/abs/1912.07515)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week10-Neural%20Solver.pdf)
  W 11|[Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week11-Object%20Contextual%20Representations%20for%20Semantic%20Segmentation.pdf)
+ W 12|[Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/2004.04446)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week12-Center-Mask.pdf)
 
+## Extras
