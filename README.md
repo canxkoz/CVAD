@@ -34,7 +34,6 @@ Week 12|Isntance Segmantation|No Assignment|No Video
  W 12|[CenterMask: single shot instance segmentation with point representation](https://arxiv.org/abs/2004.04446)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week12-Center-Mask.pdf)
 
 ## Extras
-## Assignments
 **Source**  | **Course Name** | **Assignment Name** | **Solution Link** |
 ---|:---:|:---:|:---:|
 Coursera | Visual Perception for Self-Driving Cars | Applying Stereo Depth to a Driving Scenario | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
