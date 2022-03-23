@@ -15,7 +15,7 @@ Week 8|Object Detection Extended|[Object Detection Extended Assignment](https://
 Week 9|Visual Object Tracking|[Visual Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week9/Can_Koz_Week10_VOT%20-%20Jupyter%20Notebook.pdf)|No Video
 Week 10|Multiple Object Tracking|[Multiple Object Tracking Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week10/Can_KOZ_Week11_MOT.ipynb)|No Video
 Week 11|Semantic Segmantation|[Semantic Segmantation Assignment](https://github.com/canxkoz/CVAD/blob/main/Assignments/Week11/Semantic_Instance_Segmentation_Assignments%20(1).ipynb)|No Video
-Week 12|Isntance Segmantation|No Assignment|No Video
+Week 12|Instance Segmantation|No Assignment|No Video
 
 ## Paper Reviews
 **Week**  | **Paper Name** | **Paper Review** 
