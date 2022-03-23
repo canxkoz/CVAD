@@ -31,6 +31,10 @@ Week 12|Isntance Segmantation|No Assignment|No Video
  W 9|[Know Your Surroundings: Exploiting Scene Information for Object Tracking](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680205.pdf)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week9-Review%20for%20Know%20Your%20Surroundings.pdf)
  W 10|[Learning a Neural Solver for Multiple Object Tracking](https://arxiv.org/abs/1912.07515)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week10-Neural%20Solver.pdf)
  W 11|[Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/1909.11065)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week11-Object%20Contextual%20Representations%20for%20Semantic%20Segmentation.pdf)
- W 12|[Segmentation Transformer: Object-Contextual Representations for Semantic Segmentation](https://arxiv.org/abs/2004.04446)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week12-Center-Mask.pdf)
+ W 12|[CenterMask: single shot instance segmentation with point representation](https://arxiv.org/abs/2004.04446)|[Review](https://github.com/canxkoz/CVAD/blob/main/Paper%20Reviews/Week12-Center-Mask.pdf)
 
 ## Extras
+## Assignments
+**Source**  | **Course Name** | **Assignment Name** | **Solution Link** |
+---|:---:|:---:|:---:|
+Coursera | Visual Perception for Self-Driving Cars | Applying Stereo Depth to a Driving Scenario | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
