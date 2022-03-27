@@ -37,3 +37,4 @@ Week 12|Instance Segmantation|No Assignment|No Video
 **Source**  | **Course Name** | **Assignment Name** | **Solution Link** |
 ---|:---:|:---:|:---:|
 Coursera | Visual Perception for Self-Driving Cars | Applying Stereo Depth to a Driving Scenario | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
+Coursera | Visual Perception for Self-Driving Cars | Visual Odometry for Localization in Autonomous Driving | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Visual%20Odometry%20for%20Localization%20in%20Autonomous%20Driving.ipynb)
