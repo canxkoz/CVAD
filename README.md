@@ -39,3 +39,6 @@ Week 12|Instance Segmantation|No Assignment|No Video
 Coursera | Visual Perception for Self-Driving Cars | Applying Stereo Depth to a Driving Scenario | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Applying%20Stereo%20Depth%20to%20a%20Driving%20Scenario%20(practice%20assignment).ipynb)
 Coursera | Visual Perception for Self-Driving Cars | Visual Odometry for Localization in Autonomous Driving | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Visual%20Odometry%20for%20Localization%20in%20Autonomous%20Driving.ipynb)
 Coursera | Visual Perception for Self-Driving Cars | Environment Perception For Self-Driving Car | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Environment%20Perception%20For%20Self-Driving%20Cars%20-%20Learner%20-%20v1.ipynb)
+Coursera | Motion Planning for Self-Driving Cars | Constructing Occupancy Grid Map | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/OccupancyGridMap.ipynb)
+Coursera | Motion Planning for Self-Driving Cars | Mission Planning | [Link](https://github.com/canxkoz/CVAD/blob/main/Extras/Mission%20Planning.ipynb)
+
